@@ -99,6 +99,7 @@ Users are encouraged to add themselves to this page, [issue](https://github.com/
 1. <a href="https://www.vhall.com/" rel="nofollow">微吼</a>
 1. <a href="https://www.xiaopeng.com/" rel="nofollow">小鹏汽车</a>
 1. <a href="" rel="nofollow">Ideacreep</a>
+1. <a href="https://pnj.ac.id/" rel="nofollow">Politeknik Negeri Jakarta</a>
 
 <img src="https://user-images.githubusercontent.com/40708551/109484046-f7c4e280-7aa5-11eb-9d71-aab90830773a.png" width="725" height="1700" />
 
@@ -127,3 +128,6 @@ Using Apache APISIX as a Web ACL gateway to deal with backend OA systems traffic
 ## HelloTalk, Inc.
 
 Using Apache APISIX as an API gateway to manage all API and SSL certificates in test\dev\CMS environment.
+
+## Politeknik Negeri Jakarta
+Politeknik Negeri Jakarta (PNJ) uses Apache APISIX as an API Gateway to support its education technology ecosystem. APISIX helps PNJ manage and secure APIs across academic and administrative services, enabling reliable integration between internal systems and digital learning platforms.
